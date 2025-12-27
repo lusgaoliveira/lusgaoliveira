@@ -1,6 +1,6 @@
-# 👨‍💻 Lucas
+# Hello
 
-## Hello
+## Me
 
 I am Lucas, a Bachelor in Information Systems, deeply passionate about Computing and the art of solving real-world problems through technology. I have professional experience in web and mobile development, focusing on building modern, scalable, and well-structured applications.
 
