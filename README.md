@@ -1,4 +1,4 @@
-# Hello, how are you?
+# Hello
 
 ## Me
 
