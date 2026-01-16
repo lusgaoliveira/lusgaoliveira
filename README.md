@@ -1,7 +1,7 @@
-# Hello
+# Hi there, I'm Lucas 👋
 
-## Me
 
+## About Me
 I am Lucas, a Bachelor in Information Systems, deeply passionate about Computing and the art of solving real-world problems through technology. I have professional experience in web and mobile development, focusing on building modern, scalable, and well-structured applications.
 
 My background also includes good knowledge in Data Science, with a strong interest in data analysis, data processing, and data-driven decision-making. I am particularly drawn to areas such as Machine Learning, intelligent systems, and IOT, where data, automation, and innovation converge to create impactful solutions.
