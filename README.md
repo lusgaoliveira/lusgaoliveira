@@ -2,17 +2,16 @@
 
 
 ## About Me
-I am Lucas, a Bachelor in Information Systems, deeply passionate about Computing and the art of solving real-world problems through technology. I have professional experience in web and mobile development, focusing on building modern, scalable, and well-structured applications.
 
-My background also includes good knowledge in Data Science, with a strong interest in data analysis, data processing, and data-driven decision-making. I am particularly drawn to areas such as Machine Learning, intelligent systems, and IOT, where data, automation, and innovation converge to create impactful solutions.
+I am Lucas, a Bachelor in Information Systems, interested in software development and in using technology to solve real-world problems.
 
-I strongly value software engineering best practices, applying principles such as SOLID, Clean Code, and design patterns, alongside automated testing and Test-Driven Development (TDD). My goal is always to deliver software that is robust, maintainable, and capable of evolving over time.
+I have experience with web and mobile development and enjoy learning how to build clean, maintainable, and scalable applications. I am also interested in data analysis and Data Science, especially in areas like Machine Learning, intelligent systems, and IoT.
 
-Additionally, I have experience working with messaging systems and event-driven architectures, enabling the development of decoupled, resilient, and scalable systems.
+I try to follow good software engineering practices such as Clean Code, SOLID principles, design patterns, and automated testing, including TDD, and I am continuously improving in these areas.
 
-Beyond industry experience, I have a strong interest in academic development and research. I aspire to pursue a postgraduate degree, combining scientific research, innovation, and professional practice to deepen my expertise and contribute to the advancement of computing.
+I have some experience with messaging systems and event-driven architectures and enjoy learning more about distributed systems.
 
-I am continuously seeking new challenges and learning opportunities that allow me to grow both as a software engineer and as a researcher in the field of Computer Science.
+I am interested in both industry and academic paths and plan to pursue a postgraduate degree in the future. I am always looking to learn, improve, and take on new challenges.
 
 ## Tools and Technologies
 
